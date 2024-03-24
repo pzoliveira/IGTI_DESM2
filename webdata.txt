@@ -1,0 +1,101 @@
+<tr class="row-2 even">
+	<td class="column-1"><span style="color:#303030;">1000</span></td><td class="column-2"><span style="color:#303030;">Sabão em pó</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">9.9</span></td>
+</tr><tr class="row-3 odd">
+	<td class="column-1"><span style="color:#303030;">1001</span></td><td class="column-2"><span style="color:#303030;">Amaciante</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">22</span></td>
+</tr><tr class="row-4 even">
+	<td class="column-1"><span style="color:#303030;">1002</span></td><td class="column-2"><span style="color:#303030;">Detergente</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">1.99</span></td>
+</tr><tr class="row-5 odd">
+	<td class="column-1"><span style="color:#303030;">1003</span></td><td class="column-2"><span style="color:#303030;">Água sanitária</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">12</span></td>
+</tr><tr class="row-6 even">
+	<td class="column-1"><span style="color:#303030;">1004</span></td><td class="column-2"><span style="color:#303030;">Esponja de aço</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">4</span></td>
+</tr><tr class="row-7 odd">
+	<td class="column-1"><span style="color:#303030;">1005</span></td><td class="column-2"><span style="color:#303030;">Buchinha de pia</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">2.5</span></td>
+</tr><tr class="row-8 even">
+	<td class="column-1"><span style="color:#303030;">1006</span></td><td class="column-2"><span style="color:#303030;">Sabão em pedra</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">6</span></td>
+</tr><tr class="row-9 odd">
+	<td class="column-1"><span style="color:#303030;">1007</span></td><td class="column-2"><span style="color:#303030;">Sabonete</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">1.25</span></td>
+</tr><tr class="row-10 even">
+	<td class="column-1"><span style="color:#303030;">1008</span></td><td class="column-2"><span style="color:#303030;">Shampo</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">8.5</span></td>
+</tr><tr class="row-11 odd">
+	<td class="column-1"><span style="color:#303030;">1009</span></td><td class="column-2"><span style="color:#303030;">Condicionador</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">12.5</span></td>
+</tr><tr class="row-12 even">
+	<td class="column-1"><span style="color:#303030;">1010</span></td><td class="column-2"><span style="color:#303030;">Desinfetante</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">11</span></td>
+</tr><tr class="row-13 odd">
+	<td class="column-1"><span style="color:#303030;">1011</span></td><td class="column-2"><span style="color:#303030;">Lustra móveis</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">5.99</span></td>
+</tr><tr class="row-14 even">
+	<td class="column-1"><span style="color:#303030;">1012</span></td><td class="column-2"><span style="color:#303030;">Tira manchas</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">7.95</span></td>
+</tr><tr class="row-15 odd">
+	<td class="column-1"><span style="color:#303030;">1013</span></td><td class="column-2"><span style="color:#303030;">Limpa vidros</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">13.5</span></td>
+</tr><tr class="row-16 even">
+	<td class="column-1"><span style="color:#303030;">1014</span></td><td class="column-2"><span style="color:#303030;">Alcool</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">8.99</span></td>
+</tr><tr class="row-17 odd">
+	<td class="column-1"><span style="color:#303030;">1015</span></td><td class="column-2"><span style="color:#303030;">Saco de lixo 30l</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">12</span></td>
+</tr><tr class="row-18 even">
+	<td class="column-1"><span style="color:#303030;">1016</span></td><td class="column-2"><span style="color:#303030;">Saco de lixo 50l</span></td><td class="column-3"><span style="color:#303030;">1</span></td><td class="column-4"><span style="color:#303030;">Produtos de Limpeza</span></td><td class="column-5"><span style="color:#303030;">15</span></td>
+</tr><tr class="row-19 odd">
+	<td class="column-1"><span style="color:#303030;">1017</span></td><td class="column-2"><span style="color:#303030;">Refrigerante 2l</span></td><td class="column-3"><span style="color:#303030;">2</span></td><td class="column-4"><span style="color:#303030;">Bebidas</span></td><td class="column-5"><span style="color:#303030;">7.5</span></td>
+</tr><tr class="row-20 even">
+	<td class="column-1"><span style="color:#303030;">1018</span></td><td class="column-2"><span style="color:#303030;">Suco garrafa 1l</span></td><td class="column-3"><span style="color:#303030;">2</span></td><td class="column-4"><span style="color:#303030;">Bebidas</span></td><td class="column-5"><span style="color:#303030;">4.99</span></td>
+</tr><tr class="row-21 odd">
+	<td class="column-1"><span style="color:#303030;">1019</span></td><td class="column-2"><span style="color:#303030;">Suco caixinha 500ml</span></td><td class="column-3"><span style="color:#303030;">2</span></td><td class="column-4"><span style="color:#303030;">Bebidas</span></td><td class="column-5"><span style="color:#303030;">4.5</span></td>
+</tr><tr class="row-22 even">
+	<td class="column-1"><span style="color:#303030;">1020</span></td><td class="column-2"><span style="color:#303030;">Suco sachê</span></td><td class="column-3"><span style="color:#303030;">2</span></td><td class="column-4"><span style="color:#303030;">Bebidas</span></td><td class="column-5"><span style="color:#303030;">2.5</span></td>
+</tr><tr class="row-23 odd">
+	<td class="column-1"><span style="color:#303030;">1021</span></td><td class="column-2"><span style="color:#303030;">Leite integral litro</span></td><td class="column-3"><span style="color:#303030;">2</span></td><td class="column-4"><span style="color:#303030;">Bebidas</span></td><td class="column-5"><span style="color:#303030;">3.99</span></td>
+</tr><tr class="row-24 even">
+	<td class="column-1"><span style="color:#303030;">1022</span></td><td class="column-2"><span style="color:#303030;">Leite desnatado litro</span></td><td class="column-3"><span style="color:#303030;">2</span></td><td class="column-4"><span style="color:#303030;">Bebidas</span></td><td class="column-5"><span style="color:#303030;">4.3</span></td>
+</tr><tr class="row-25 odd">
+	<td class="column-1"><span style="color:#303030;">1023</span></td><td class="column-2"><span style="color:#303030;">Arroz 5kg</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">22.5</span></td>
+</tr><tr class="row-26 even">
+	<td class="column-1"><span style="color:#303030;">1024</span></td><td class="column-2"><span style="color:#303030;">Feijão 2kg</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">5.99</span></td>
+</tr><tr class="row-27 odd">
+	<td class="column-1"><span style="color:#303030;">1025</span></td><td class="column-2"><span style="color:#303030;">Macarrão</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">4.99</span></td>
+</tr><tr class="row-28 even">
+	<td class="column-1"><span style="color:#303030;">1026</span></td><td class="column-2"><span style="color:#303030;">Extrato de tomate</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">2</span></td>
+</tr><tr class="row-29 odd">
+	<td class="column-1"><span style="color:#303030;">1027</span></td><td class="column-2"><span style="color:#303030;">Molho de tomate</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">3.99</span></td>
+</tr><tr class="row-30 even">
+	<td class="column-1"><span style="color:#303030;">1028</span></td><td class="column-2"><span style="color:#303030;">Sal</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">3.2</span></td>
+</tr><tr class="row-31 odd">
+	<td class="column-1"><span style="color:#303030;">1029</span></td><td class="column-2"><span style="color:#303030;">Açucar</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">10</span></td>
+</tr><tr class="row-32 even">
+	<td class="column-1"><span style="color:#303030;">1030</span></td><td class="column-2"><span style="color:#303030;">Achocolatado</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">8</span></td>
+</tr><tr class="row-33 odd">
+	<td class="column-1"><span style="color:#303030;">1031</span></td><td class="column-2"><span style="color:#303030;">Bolacha</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">1.99</span></td>
+</tr><tr class="row-34 even">
+	<td class="column-1"><span style="color:#303030;">1032</span></td><td class="column-2"><span style="color:#303030;">Café</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">9.99</span></td>
+</tr><tr class="row-35 odd">
+	<td class="column-1"><span style="color:#303030;">1033</span></td><td class="column-2"><span style="color:#303030;">Farofa pronta</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">2.32</span></td>
+</tr><tr class="row-36 even">
+	<td class="column-1"><span style="color:#303030;">1034</span></td><td class="column-2"><span style="color:#303030;">Fubá</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">3.75</span></td>
+</tr><tr class="row-37 odd">
+	<td class="column-1"><span style="color:#303030;">1035</span></td><td class="column-2"><span style="color:#303030;">Farinha de trigo</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">3.99</span></td>
+</tr><tr class="row-38 even">
+	<td class="column-1"><span style="color:#303030;">1036</span></td><td class="column-2"><span style="color:#303030;">Farinha de milho</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">3.5</span></td>
+</tr><tr class="row-39 odd">
+	<td class="column-1"><span style="color:#303030;">1037</span></td><td class="column-2"><span style="color:#303030;">Farinha de mandioca</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">3.45</span></td>
+</tr><tr class="row-40 even">
+	<td class="column-1"><span style="color:#303030;">1038</span></td><td class="column-2"><span style="color:#303030;">Sardinha</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">4</span></td>
+</tr><tr class="row-41 odd">
+	<td class="column-1"><span style="color:#303030;">1039</span></td><td class="column-2"><span style="color:#303030;">Atum</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">4.99</span></td>
+</tr><tr class="row-42 even">
+	<td class="column-1"><span style="color:#303030;">1040</span></td><td class="column-2"><span style="color:#303030;">Maionese</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">5</span></td>
+</tr><tr class="row-43 odd">
+	<td class="column-1"><span style="color:#303030;">1041</span></td><td class="column-2"><span style="color:#303030;">Molho de pimenta</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">4.95</span></td>
+</tr><tr class="row-44 even">
+	<td class="column-1"><span style="color:#303030;">1042</span></td><td class="column-2"><span style="color:#303030;">Ervilha</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">4.45</span></td>
+</tr><tr class="row-45 odd">
+	<td class="column-1"><span style="color:#303030;">1043</span></td><td class="column-2"><span style="color:#303030;">Milho verde</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">3.25</span></td>
+</tr><tr class="row-46 even">
+	<td class="column-1"><span style="color:#303030;">1044</span></td><td class="column-2"><span style="color:#303030;">Seleta</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">3.99</span></td>
+</tr><tr class="row-47 odd">
+	<td class="column-1"><span style="color:#303030;">1045</span></td><td class="column-2"><span style="color:#303030;">Doce de leite</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">5.99</span></td>
+</tr><tr class="row-48 even">
+	<td class="column-1"><span style="color:#303030;">1046</span></td><td class="column-2"><span style="color:#303030;">Goiabada</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">4.99</span></td>
+</tr><tr class="row-49 odd">
+	<td class="column-1"><span style="color:#303030;">1047</span></td><td class="column-2"><span style="color:#303030;">Milho de pipoca</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">3.89</span></td>
+</tr><tr class="row-50 even">
+	<td class="column-1"><span style="color:#303030;">1048</span></td><td class="column-2"><span style="color:#303030;">Óleo de cozinha</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">8.99</span></td>
+</tr><tr class="row-51 odd">
+	<td class="column-1"><span style="color:#303030;">1049</span></td><td class="column-2"><span style="color:#303030;">Leite em pó</span></td><td class="column-3"><span style="color:#303030;">3</span></td><td class="column-4"><span style="color:#303030;">Alimentação</span></td><td class="column-5"><span style="color:#303030;">5.99</span></td>
+</tr></tbody>
