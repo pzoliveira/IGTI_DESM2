@@ -1,0 +1,13 @@
+avatar		URL
+player_id	INT
+@id		URL
+url		URL
+name		STRING
+username	STRING
+title		STRING
+followers	INT
+country		URL
+last_online	TIMESTAMP
+joined		TIMESTAMP
+status		STRING
+is_streamer	BOOLEAN
